@@ -17,8 +17,9 @@ GitHub Pages builds the website from `main` and `/docs`. After you push a change
 
 ## Purpose and sources
 
-Replace this paragraph with two or three sentences about your guide's audience and purpose. The first eight resources were supplied by COMPSS 211A. Name the resource you added and link to the official webpage you used to check it.
+This website is for new students who want to know more about places in Berkeley. The first eight places were provided by COMPSS 211A. I added Berkeley Bowl Marketplace, a grocery store in South Berkeley using its [official website](https://www.berkeleybowl.com/).
 
 ## Website checks
+Website: https://ghifariyadi.github.io/hidden-berkeley/
 
-After publishing your changes, replace this paragraph with the live website link, the existing entry you improved, the new resource you added, and what you checked on the website. Say whether the displayed values match your CSV and whether the official links open the intended pages.
+I updated the access note for HB08 and added Berkeley Bowl Marketplace as the ninth resource. I checked the website and confirmed that all nine places appeared and the information matched the CSV. I also checked that the official links opened the correct websites.
