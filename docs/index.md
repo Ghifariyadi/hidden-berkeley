@@ -3,9 +3,9 @@ layout: default
 title: Hidden Berkeley
 ---
 
-# Hidden Berkeley
+# Places to Visit in Berkeley
 
-A starting guide to Berkeley places and services. Check each resource's official webpage for current access details.
+This website lists some useful places and services in Berkeley. It is mainly for new students who want to learn more about the area.
 
 <!-- Edit the heading and introduction above. The supplied loop below displays each row of the CSV. -->
 {% for resource in site.data.locations %}
